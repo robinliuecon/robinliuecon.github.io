@@ -1,4 +1,4 @@
-# Celeste Liu
+# Robin Liu
 
 ## About
 Welcome to my website! I am a research associate at the Federal Reserve Bank of San Francisco. My research interests are in macroeconomics. Here is my [CV](resume.pdf), [statement of purpose](SOP.pdf), [transcript](transcript_2022.pdf), and [coursework spreadsheet](coursework_spreadsheet.pdf) of the six most advanced college courses I took in both economics and mathematics.
